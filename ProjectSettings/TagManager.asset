@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - Item
+  - Out-C
+  - Out-W
+  - In-C
+  - In-W
+  - Junc
+  - Walkable
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SortLayer1
+    uniqueID: 1761939939
+    locked: 0
+  - name: SortLayer2
+    uniqueID: 481872935
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
